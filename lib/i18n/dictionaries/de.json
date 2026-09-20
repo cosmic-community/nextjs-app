@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über mich",
+    "projects": "Projekte",
+    "experience": "Erfahrung",
+    "blog": "Blog",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "greeting": "Hallo, ich bin",
+    "viewProjects": "Projekte ansehen",
+    "readBlog": "Blog lesen",
+    "featuredProjects": "Ausgewählte Projekte",
+    "latestPosts": "Neueste Beiträge",
+    "viewAll": "Alle ansehen"
+  },
+  "about": {
+    "title": "Über mich",
+    "skills": "Fähigkeiten & Technologien",
+    "education": "Ausbildung"
+  },
+  "projects": {
+    "title": "Projekte",
+    "subtitle": "Ausgewählte Arbeiten, mit Kontext zu Architektur und Ergebnissen.",
+    "role": "Meine Rolle",
+    "stack": "Tech-Stack",
+    "outcomes": "Technische Ergebnisse",
+    "viewSource": "Quellcode ansehen",
+    "viewLive": "Live ansehen",
+    "empty": "Projekte werden in Kürze hinzugefügt."
+  },
+  "experience": {
+    "title": "Erfahrung",
+    "present": "Heute",
+    "empty": "Erfahrungsdetails werden in Kürze hinzugefügt."
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Notizen zu Backend-Engineering, Systemen und dem, was jenseits des Happy Path passiert.",
+    "readMore": "Weiterlesen",
+    "publishedOn": "Veröffentlicht am",
+    "by": "von",
+    "relatedPosts": "Ähnliche Beiträge",
+    "empty": "Noch keine Beiträge."
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Offen für Backend- und Full-Stack-Engineering-Rollen.",
+    "email": "E-Mail",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "common": {
+    "languageSwitcher": "Sprache ändern",
+    "toggleTheme": "Design umschalten",
+    "backToHome": "Zurück zur Startseite",
+    "notFound": "Seite nicht gefunden",
+    "notFoundBody": "Die gesuchte Seite existiert nicht."
+  }
+}

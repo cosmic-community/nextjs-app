@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "experience": "Experience",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "home": {
+    "greeting": "Hi, I'm",
+    "viewProjects": "View projects",
+    "readBlog": "Read the blog",
+    "featuredProjects": "Featured projects",
+    "latestPosts": "Latest posts",
+    "viewAll": "View all"
+  },
+  "about": {
+    "title": "About me",
+    "skills": "Skills & technologies",
+    "education": "Education"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Selected work, with context on architecture and outcomes.",
+    "role": "My role",
+    "stack": "Tech stack",
+    "outcomes": "Engineering outcomes",
+    "viewSource": "View source",
+    "viewLive": "View live",
+    "empty": "Projects are being added soon."
+  },
+  "experience": {
+    "title": "Experience",
+    "present": "Present",
+    "empty": "Experience details are being added soon."
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Notes on backend engineering, systems, and what happens beyond the happy path.",
+    "readMore": "Read more",
+    "publishedOn": "Published on",
+    "by": "by",
+    "relatedPosts": "Related posts",
+    "empty": "No posts yet."
+  },
+  "contact": {
+    "title": "Get in touch",
+    "subtitle": "Open to backend and full-stack engineering roles.",
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "common": {
+    "languageSwitcher": "Change language",
+    "toggleTheme": "Toggle theme",
+    "backToHome": "Back to home",
+    "notFound": "Page not found",
+    "notFoundBody": "The page you're looking for doesn't exist."
+  }
+}

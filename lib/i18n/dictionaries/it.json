@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Chi sono",
+    "projects": "Progetti",
+    "experience": "Esperienza",
+    "blog": "Blog",
+    "contact": "Contatti"
+  },
+  "home": {
+    "greeting": "Ciao, sono",
+    "viewProjects": "Vedi i progetti",
+    "readBlog": "Leggi il blog",
+    "featuredProjects": "Progetti in evidenza",
+    "latestPosts": "Ultimi articoli",
+    "viewAll": "Vedi tutti"
+  },
+  "about": {
+    "title": "Chi sono",
+    "skills": "Competenze e tecnologie",
+    "education": "Formazione"
+  },
+  "projects": {
+    "title": "Progetti",
+    "subtitle": "Lavori selezionati, con contesto su architettura e risultati.",
+    "role": "Il mio ruolo",
+    "stack": "Stack tecnologico",
+    "outcomes": "Risultati ingegneristici",
+    "viewSource": "Vedi il codice",
+    "viewLive": "Vedi online",
+    "empty": "I progetti saranno aggiunti a breve."
+  },
+  "experience": {
+    "title": "Esperienza",
+    "present": "Presente",
+    "empty": "I dettagli sull'esperienza saranno aggiunti a breve."
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Note su backend engineering, sistemi e ciò che accade oltre l'happy path.",
+    "readMore": "Leggi di più",
+    "publishedOn": "Pubblicato il",
+    "by": "di",
+    "relatedPosts": "Articoli correlati",
+    "empty": "Nessun articolo per ora."
+  },
+  "contact": {
+    "title": "Mettiamoci in contatto",
+    "subtitle": "Disponibile per ruoli di backend e full-stack engineering.",
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "common": {
+    "languageSwitcher": "Cambia lingua",
+    "toggleTheme": "Cambia tema",
+    "backToHome": "Torna alla home",
+    "notFound": "Pagina non trovata",
+    "notFoundBody": "La pagina che cerchi non esiste."
+  }
+}

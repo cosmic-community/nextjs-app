@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我",
+    "projects": "项目",
+    "experience": "工作经历",
+    "blog": "博客",
+    "contact": "联系方式"
+  },
+  "home": {
+    "greeting": "你好，我是",
+    "viewProjects": "查看项目",
+    "readBlog": "阅读博客",
+    "featuredProjects": "精选项目",
+    "latestPosts": "最新文章",
+    "viewAll": "查看全部"
+  },
+  "about": {
+    "title": "关于我",
+    "skills": "技能与技术",
+    "education": "教育背景"
+  },
+  "projects": {
+    "title": "项目",
+    "subtitle": "精选作品，包含架构与成果说明。",
+    "role": "我的职责",
+    "stack": "技术栈",
+    "outcomes": "工程成果",
+    "viewSource": "查看源码",
+    "viewLive": "在线预览",
+    "empty": "项目即将添加。"
+  },
+  "experience": {
+    "title": "工作经历",
+    "present": "至今",
+    "empty": "工作经历即将添加。"
+  },
+  "blog": {
+    "title": "博客",
+    "subtitle": "关于后端工程、系统设计，以及异常路径的思考。",
+    "readMore": "阅读更多",
+    "publishedOn": "发布于",
+    "by": "作者",
+    "relatedPosts": "相关文章",
+    "empty": "暂无文章。"
+  },
+  "contact": {
+    "title": "联系我",
+    "subtitle": "正在寻找后端与全栈工程职位。",
+    "email": "邮箱",
+    "github": "GitHub",
+    "linkedin": "领英"
+  },
+  "common": {
+    "languageSwitcher": "切换语言",
+    "toggleTheme": "切换主题",
+    "backToHome": "返回首页",
+    "notFound": "页面未找到",
+    "notFoundBody": "您访问的页面不存在。"
+  }
+}
